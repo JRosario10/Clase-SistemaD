@@ -1,0 +1,3 @@
+[submodule "SistemasDistribuidos"]
+	path = SistemasDistribuidos
+	url = https://github.com/elabundis/SistemasDistribuidos.git
